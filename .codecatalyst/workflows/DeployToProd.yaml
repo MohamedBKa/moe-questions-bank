@@ -37,5 +37,5 @@ Actions:
     Environment:
       Connections:
         - Role: CodeCatalystWorkflowDevelopmentRole-AWS-CIC-23-24-Test
-          Name: "888641773886"
+          Name: "600627328431"
       Name: Prod
